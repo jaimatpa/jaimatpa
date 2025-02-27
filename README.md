@@ -16,10 +16,11 @@ Throughout my career, I have faced and handled numerous challenges across fronte
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-#### <img src="https://github.com/user-attachments/assets/f27d1232-772c-4d88-8747-cbbff73ca017" height="24"> E V O P S, <img src="https://github.com/user-attachments/assets/f2d84819-b836-4cbc-a15d-87525df4d2d9" height="24"> L O U D 
+#### <img src="https://github.com/user-attachments/assets/8ed88948-a40b-486a-b4a3-ee2e3be1cd5e" height="24"> E V O P S, <img src="https://github.com/user-attachments/assets/b5853a62-505e-4e8c-9934-55032f11da92" height="24"> L O U D 
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### <img src="https://github.com/user-attachments/assets/95e73483-2be7-4a94-8ece-3ab9ad5747d4" height="24"> A T A B A S E
+#### <img src="https://github.com/user-attachments/assets/9c9fdc01-7ef7-4718-85a7-de861eff9651" height="24"> A T A B A S E
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
