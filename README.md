@@ -1,4 +1,4 @@
-<h2 align="center">Senior Full Stack Engineer | Python | Node.js | Docker | Cloud | AI </h3>
+<h2 align="center">Senior Full Stack Developer | Python | Node.js | Docker | Cloud | AI </h3>
 
 Throughout my career, I have faced and handled numerous challenges across frontend and backend, including development, release and maintenance. Recognizing that most awful were caused by poor architecture and habits, I intensified my focus on researching design patterns, clean code, and architectural principles.
 
